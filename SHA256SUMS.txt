@@ -1,0 +1,2 @@
+4e7245c7a2b00d26a36cf12ec77c4b4878c6a2a13c3735449cd97bb58eea5b5d  BlackVeil.exe
+2b5fb73e8213ec69be12680ca6f1f85a6c8c98b216a254d64c60d98b1cbb0912  BlackVeil-Windows.zip
