@@ -1,0 +1,2 @@
+Gensokyo-Mod-Android-v0.4.1.apk filter=lfs diff=lfs merge=lfs -text
+Gensokyo-Mod-Android-v0.4.1.zip filter=lfs diff=lfs merge=lfs -text
