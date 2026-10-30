@@ -1,0 +1,36 @@
+{
+  "version": "gensokyo-dialogue-editor-v0.3.0",
+  "observed_at_utc": "2026-10-30T05:54:03.858998+00:00",
+  "counts": {
+    "complete_outputs": 1232,
+    "spoken_outputs": 1064,
+    "narration_only_outputs": 168,
+    "unique_spoken_strings": 779,
+    "unique_complete_templates": 1232,
+    "median_template_characters": 55.0,
+    "max_template_characters": 69,
+    "per_character": 308,
+    "conditions": 616,
+    "candidates_per_condition": 2
+  },
+  "generator_reproduction": {
+    "exit_code": 0,
+    "identical_output_files": 7
+  },
+  "javascript_syntax_exit_code": 0,
+  "saved_json_cli_read_exit_code": 0,
+  "browser_and_route_checks_passed": 15,
+  "browser_errors": [],
+  "source_apk_unchanged": true,
+  "original_format_functions_test": {
+    "engine": "Godot 4.6.3",
+    "exit_code": 0,
+    "scope": "original extracted format/name/color functions with mocked name data"
+  },
+  "limits": [
+    "No APK patch, rebuild, signing, or Android-device run.",
+    "Browser tests use temporary local HTTP because managed Chromium blocks file://.",
+    "Review route model is not installed into the game."
+  ],
+  "exe_apk_check": "Not applicable: no EXE or APK in this review package."
+}
