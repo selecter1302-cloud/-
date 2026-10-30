@@ -1,0 +1,36 @@
+{
+  "version": "gensokyo-dialogue-editor-v0.3.1",
+  "observed_at_utc": "2026-10-30T07:04:00.592454+00:00",
+  "source_upload_sha256": "035e007d3bbdcad21db03b57b187e10103d62dc054dc9c6226fe15b02659e32f",
+  "supplied_json_semantically_preserved": true,
+  "all_active_text_matches_requested_normalization": true,
+  "merge": {
+    "user_modified_outputs": 32,
+    "spacing_normalized_outputs": 1053,
+    "review_status_counts": {
+      "use": 28,
+      "pending": 1189,
+      "exclude": 15
+    },
+    "content_modified_after_spacing": 25,
+    "user_format_only_changes": 7,
+    "repaired_name_marker_outputs": 1,
+    "repaired_name_marker_ids": [
+      "V03-REIMU-HATE-UNSET-AFTER-B"
+    ],
+    "preserved_notes": 0,
+    "only_text_change_after_user_edits": "quote-boundary horizontal spaces plus one missing speaker-name closing brace"
+  },
+  "all_1232_decisions_and_notes_preserved": true,
+  "browser_checks_passed": 14,
+  "browser_errors": [],
+  "isolated_generator_exit_code": 0,
+  "regenerated_identical_review_files": 9,
+  "javascript_syntax_exit_code": 0,
+  "ready_json_reader_exit_code": 0,
+  "apk_unchanged_sha256": "13c4c3c52e930278e0853771508308ff7d720efd21dc4a0ef766012a3e35d333",
+  "limits": [
+    "Review editor only; no APK patch, rebuild or signing.",
+    "Browser tests used temporary local HTTP; managed browser blocks file://."
+  ]
+}
