@@ -1,0 +1,30 @@
+{
+  "observed_at_utc": "2026-10-30T02:41:28.100121+00:00",
+  "version": "gensokyo-dialogue-editor-v0.2.0",
+  "counts": {
+    "complete_outputs": 1232,
+    "per_character": 308,
+    "authored_spoken_candidates": 784,
+    "unique_spoken_candidates": 784,
+    "exact_conditions": 616,
+    "variants_per_condition": 2
+  },
+  "checks": {
+    "source_apk_unchanged_sha256": "13c4c3c52e930278e0853771508308ff7d720efd21dc4a0ef766012a3e35d333",
+    "generator_exit_code": 0,
+    "isolated_regenerated_review_files_identical": 7,
+    "javascript_syntax_exit_code": 0,
+    "browser_and_route_checks_passed": 23,
+    "browser_script_errors": [],
+    "all_body_relationship_scene_ids_present": 1232,
+    "old_draft_spoken_text_exact_reuse": 0,
+    "separate_inner_thought_fields": 0
+  },
+  "browser_scope": "system Chromium via Playwright over temporary local HTTP; managed browser policy blocks file:// navigation",
+  "limits": [
+    "No game patch, APK rebuild, signing, or Android device test.",
+    "Route tests exercise the review specification, not modified Godot game code.",
+    "Managed Chromium blocks file://; browser UI was tested using a temporary local HTTP server. The HTML is self-contained."
+  ],
+  "exe_check": "Not applicable: no EXE or APK is included."
+}
