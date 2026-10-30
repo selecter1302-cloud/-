@@ -1,0 +1,28 @@
+{
+  "observed_at_utc": "2026-10-30T01:41:54.068533+00:00",
+  "package": "Gensokyo-Dialogue-Review-v0.1.0",
+  "type": "unapplied-dialogue-review",
+  "checks": {
+    "isolated_python_regeneration": {
+      "exit_code": 0,
+      "stdout": "{\"core_speech_candidates\": 616, \"unique_core_speech_strings\": 616, \"fully_expanded_review_entries\": 1232, \"entries_per_character\": 308}\nall_dialogue.json 1057990\nindex.html 926254\nmarisa.md 118139\nreimu.md 117149\nsakuya.md 128366\nsanae.md 126588\n전체목록.md 1979\n"
+    },
+    "regenerated_outputs_byte_identical": {
+      "file_count": 7,
+      "passed": true
+    },
+    "javascript_syntax": {
+      "exit_code": 0
+    },
+    "apk_unchanged": {
+      "sha256": "13c4c3c52e930278e0853771508308ff7d720efd21dc4a0ef766012a3e35d333"
+    }
+  },
+  "not_performed": [
+    "Game patching",
+    "Android APK rebuilding or signing",
+    "Android device execution",
+    "Browser visual or interaction test"
+  ],
+  "exe_check": "Not applicable: this is a dialogue review package; it contains no EXE or APK."
+}
