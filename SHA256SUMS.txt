@@ -1,0 +1,2 @@
+3c0b58ee4c71b96b9ef7913de5ea324d25bebe23157fa077fdf53b7f49bd5f56  Gensokyo-Mod-Android-v0.9.0.apk
+1d4322656292881ffd02c3e2dbc6e133bc9ef589bd6ef863f4db1bef6ac5db1e  Gensokyo-Mod-Android-v0.9.0.zip
