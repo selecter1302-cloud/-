@@ -1,0 +1,30 @@
+{
+  "version": "0.9.2",
+  "previous": "0.9.1",
+  "changedExistingFiles": [
+    "export_presets.cfg",
+    "project.godot",
+    "scripts/clock.gd",
+    "scripts/state.gd",
+    "scripts/mod_controls.gd",
+    "scripts/ui/face_icon.gd",
+    "scripts/ui/portrait.gd"
+  ],
+  "addedFiles": 195,
+  "outfitCounts": {
+    "marisa": 29,
+    "reimu": 49,
+    "sakuya": 90,
+    "sanae": 25
+  },
+  "totalOutfits": 193,
+  "allExistingGameDataAndTranslationsUnchanged": true,
+  "rivalPortraitAndKoreanReferencesRetained": true,
+  "newPregnancyArtAdded": false,
+  "newExpressionsAdded": false,
+  "sourceUploadsPreserved": true,
+  "randomnessIsCosmeticOnly": true,
+  "dailyChoiceSavedUnder": "flags.mod_daily_underwear",
+  "compiledTexturesVerified": true,
+  "runtimeCacheLimit": 8
+}
