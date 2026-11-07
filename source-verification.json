@@ -1,0 +1,16 @@
+{
+  "changedSourceFiles": [
+    "export_presets.cfg",
+    "project.godot",
+    "scripts/ui/portrait.gd",
+    "scripts/ui/panels/stage.gd"
+  ],
+  "changedCompiledScripts": [
+    "assets/scripts/ui/panels/stage.gdc",
+    "assets/scripts/ui/portrait.gdc"
+  ],
+  "allGameDataTexturesAndPortraitsUnchanged": true,
+  "nativeAndroidEngineAndDocumentPickerUnchanged": true,
+  "saveFormatUnchanged": true,
+  "existingAssetFilesCompared": 2180
+}

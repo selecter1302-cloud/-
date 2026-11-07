@@ -1,0 +1,103 @@
+{
+  "stageVerticalShift": 16,
+  "allHeroinePositionsUnchanged": true,
+  "rivalSizeUnchanged": true,
+  "rivalClippedAtStageBoundary": true,
+  "iconPixelsIdentical": true,
+  "statusPagePixelsIdentical": true,
+  "refreshAndResizeAndMotionStable": true,
+  "comparisons": [
+    {
+      "case": "after-motion",
+      "actor": "reimu",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "after-motion",
+      "actor": "rival",
+      "verticalDelta": 16.0
+    },
+    {
+      "case": "after-motion",
+      "actor": "sanae",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "refreshed",
+      "actor": "reimu",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "refreshed",
+      "actor": "rival",
+      "verticalDelta": 16.0
+    },
+    {
+      "case": "refreshed",
+      "actor": "sanae",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "resized-back",
+      "actor": "reimu",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "resized-back",
+      "actor": "rival",
+      "verticalDelta": 16.0
+    },
+    {
+      "case": "resized-back",
+      "actor": "sanae",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "selected-rival",
+      "actor": "reimu",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "selected-rival",
+      "actor": "rival",
+      "verticalDelta": 16.0
+    },
+    {
+      "case": "selected-rival",
+      "actor": "sanae",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "three-people",
+      "actor": "reimu",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "three-people",
+      "actor": "rival",
+      "verticalDelta": 16.0
+    },
+    {
+      "case": "three-people",
+      "actor": "sanae",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "wide",
+      "actor": "reimu",
+      "verticalDelta": 0.0
+    },
+    {
+      "case": "wide",
+      "actor": "rival",
+      "verticalDelta": 16.0
+    },
+    {
+      "case": "wide",
+      "actor": "sanae",
+      "verticalDelta": 0.0
+    }
+  ],
+  "mobileUITests": 40,
+  "actualAndroidDeviceTested": false
+}
