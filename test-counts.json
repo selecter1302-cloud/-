@@ -1,0 +1,62 @@
+{
+  "suites": [
+    {
+      "suite": "backup",
+      "passed": true,
+      "checks": 83
+    },
+    {
+      "suite": "backup-wide",
+      "passed": true,
+      "checks": 83
+    },
+    {
+      "suite": "mobile",
+      "passed": true,
+      "checks": 40
+    },
+    {
+      "suite": "swipe",
+      "passed": true,
+      "checks": 45
+    },
+    {
+      "suite": "swipe-wide",
+      "passed": true,
+      "checks": 45
+    },
+    {
+      "suite": "upstream",
+      "passed": true,
+      "checks": 183
+    },
+    {
+      "suite": "regression",
+      "passed": true,
+      "checks": 996
+    },
+    {
+      "suite": "new",
+      "passed": true,
+      "checks": 113
+    },
+    {
+      "suite": "rival",
+      "passed": true,
+      "checks": 260
+    },
+    {
+      "suite": "vitals",
+      "passed": true,
+      "checks": 102
+    },
+    {
+      "suite": "presentation",
+      "passed": true,
+      "checks": 132
+    }
+  ],
+  "total": 2082,
+  "allPassed": true,
+  "actualAndroidDeviceTested": false
+}

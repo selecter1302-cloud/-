@@ -1,0 +1,13 @@
+{
+  "comparedToTestedAPK": true,
+  "finalAssetChanges": [
+    "assets/.godot/imported/howto_screen.png-613e326d04c78d462225fbb8feb08ac1.ctex",
+    "assets/.godot/imported/howto_screen_ko.png-75d80e0a09397ab11e0b3e82558448e0.ctex",
+    "assets/art/ui/howto_screen_ko.png.import",
+    "assets/.godot/uid_cache.bin",
+    "assets/assets.sparsepck"
+  ],
+  "allTestedScriptsAndDataIdentical": true,
+  "testsApplicableToFinalAPK": 2082,
+  "note": "Only tutorial texture resources and their import/pack metadata changed after full regression checks."
+}

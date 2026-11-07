@@ -1,0 +1,34 @@
+{
+  "changedFiles": [
+    "export_presets.cfg",
+    "project.godot",
+    "scripts/endings_pages.gd",
+    "art/rival/rival_body_normal.png",
+    "art/ui/howto_screen.png",
+    "art/ui/howto_screen_ko.png",
+    "scripts/ui/face_icon.gd",
+    "data/i18n/ko.json",
+    "data/i18n/ko/map_guide.json",
+    "data/i18n/ko/endings.json",
+    "data/i18n/ko/rival.json",
+    "data/i18n/ko/intro.json",
+    "data/i18n/ko/characters/sanae.json",
+    "data/i18n/ko/characters/reimu.json",
+    "data/i18n/ko/characters/sakuya.json",
+    "data/i18n/ko/characters/marisa.json",
+    "data/i18n/ko/dialogue/basic.json"
+  ],
+  "onlyWhitelistedFilesChanged": true,
+  "allNativeGameplayDataUnchanged": true,
+  "allGameplayScriptsUnchanged": true,
+  "displayOnlyScriptChanges": [
+    "scripts/ui/face_icon.gd",
+    "scripts/endings_pages.gd"
+  ],
+  "originalPNGUnmodified": "d94a35de20be5ab99a98f03f0b306cd210e960905e8188eaa4492a6ca9c798f9",
+  "KoreanTranslationKeysChanged": 67,
+  "auditedSourceOccurrences": 69,
+  "statusOccurrences": 13,
+  "otherLanguagesUnchanged": true,
+  "originalSourceProjectRetained": "/workspace/game-mobile-v0.9.0/project"
+}

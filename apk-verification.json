@@ -1,0 +1,17 @@
+{
+  "signature": "passed",
+  "badging": "passed",
+  "alignment": "passed",
+  "apkBytes": 196098213,
+  "apkSHA256": "03b5a06e0d9af2a8eea3a41ce16fc24b85989060fc564cb40511407ba8a4b520",
+  "sameSigningCertificateAsPreviousApp": true,
+  "package": "org.selecter1302.gensokyomod",
+  "versionCode": 14,
+  "arm64Only": true,
+  "recoveryModuleAbsent": true,
+  "baseFaintConfigFlag": false,
+  "effectiveDefaultFaintEnabled": false,
+  "configurableVitals": true,
+  "matchingDataFiles": 94,
+  "allZIPEntriesUnique": true
+}

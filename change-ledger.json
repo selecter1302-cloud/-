@@ -1,0 +1,834 @@
+{
+  "base": "0.9.0",
+  "version": "0.9.1",
+  "language": "ko",
+  "textEdits": [
+    {
+      "rowID": 4009,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/listen/1/text",
+      "event": "listen",
+      "tags": [
+        "tiff_rival"
+      ],
+      "keySHA256": "9eff55a101e8a2f24f4d0b81d3f52fdbc17426ba06af3c34400c8450faa69da5",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6201,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/call_to_rival_refused/4/text",
+      "event": "call_to_rival_refused",
+      "tags": [
+        "late"
+      ],
+      "keySHA256": "e0be551f66e2ca20becc2ac05acb4545a0a89017160bc9f63de66eeac843116a",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6817,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts/15/text",
+      "event": "thoughts",
+      "tags": [
+        "with_rival"
+      ],
+      "keySHA256": "2fae49cb39197ea2e626d421cdf328553be5d383047303420bb82bb97b00563d",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6821,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts/16/text",
+      "event": "thoughts",
+      "tags": [
+        "with_rival",
+        "stranger"
+      ],
+      "keySHA256": "da7d80123ef969d6bf009ccc5758734d878b23819b78541787937aac197a15cd",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6833,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts/19/text",
+      "event": "thoughts",
+      "tags": [
+        "with_rival",
+        "crush"
+      ],
+      "keySHA256": "fae9450917f7f7be3056ddae5248990ed3fad09e76f18e98ab6513f65f37ac95",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6837,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts/20/text",
+      "event": "thoughts",
+      "tags": [
+        "with_rival",
+        "crush",
+        "pc_lover"
+      ],
+      "keySHA256": "32208124fed3dac3ce590f6821a2960c5ee8cf5f180ebee1a47a2caba2b32a31",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6857,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts/25/text",
+      "event": "thoughts",
+      "tags": [
+        "with_rival",
+        "ex"
+      ],
+      "keySHA256": "299b1da7b3a4edf0f148fa8484f3caa932c167683b74f18e3f228c6fe39e6419",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6861,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts/26/text",
+      "event": "thoughts",
+      "tags": [
+        "with_rival",
+        "hate"
+      ],
+      "keySHA256": "d7bfa0de3b40a514af25d90529f8f3e11c1f1405806bc2041c873de42aa560e7",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6865,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts/27/text",
+      "event": "thoughts",
+      "tags": [
+        "with_rival",
+        "submit"
+      ],
+      "keySHA256": "c17012fddc377e251f464fa3226b3a62a756abd1a63ab15dc6c0701cfb9727ca",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6869,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts/28/text",
+      "event": "thoughts",
+      "tags": [
+        "with_rival",
+        "coerced"
+      ],
+      "keySHA256": "659e6fafaa821ba09ac1a7db196f3ce71cebc522eee27c5c52ce98749261f455",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 6913,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/10/text",
+      "event": "thoughts_body",
+      "tags": [
+        "lover",
+        "body_other"
+      ],
+      "keySHA256": "599907f3b013f8581749bf1c0a5030caec8363cdaff854021fd88155bfcea53a",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 6953,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/20/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival"
+      ],
+      "keySHA256": "69b55cd0f7034c6e4bd24671d45672a39a5075d0ff38d41312ab61b16f8b21e3",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 6957,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/21/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "stranger"
+      ],
+      "keySHA256": "e2d226eef83c2f8397167ffd55b146774ab6af260d9fd7cdfb55dbdc37630def",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 6961,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/22/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "stranger",
+        "sexfriend"
+      ],
+      "keySHA256": "75a481b67b00c59f13c7fc345c2709664cd8a8fe395e62c617890977e87eac12",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 6973,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/25/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "crush"
+      ],
+      "keySHA256": "4f9022bd23d0239aab5943c180252f68d78c1fab24359f3f6afa519e9212832b",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 6989,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/29/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "lover",
+        "fallen"
+      ],
+      "keySHA256": "481620a2215b45b6b70d936ddf5074b215dcc18c7de7ff009df2f696b0aae038",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 6997,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/31/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "quarrel"
+      ],
+      "keySHA256": "a1d51e38515707011cef707ffcee66a212bc642f9d42b399bc02240e9a995ed6",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 7001,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/32/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "ex"
+      ],
+      "keySHA256": "91974ce0b08471f41cbdc25b8c7d159818e37be4541fb72aaff0084404763f49",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 7005,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/33/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "ex",
+        "fallen"
+      ],
+      "keySHA256": "30adf25010c22cc44b08c9ebe53056ea182e6cfa34c4f57af3268f09cca26eef",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 7009,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/34/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "hate"
+      ],
+      "keySHA256": "390e5718daac88e3e0cd5f48400672696d323fd6fd5dbf78df1bb22888acdcf3",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 7013,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/35/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "hate",
+        "fallen"
+      ],
+      "keySHA256": "8bdb4a18044f1db0e03a551f39dc7e6edbf4b6a9d73134c4a94a71e5ac841f50",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 7017,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/36/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "submit"
+      ],
+      "keySHA256": "890d50a26269888621afc3cffc66f413ee09642b89d9a62e4c136a685ec68017",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 7021,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/thoughts_body/37/text",
+      "event": "thoughts_body",
+      "tags": [
+        "with_rival",
+        "coerced"
+      ],
+      "keySHA256": "0a2dab80344b34f3a2ad98960a686e8f8ce9a4106d7d97dcaa9805efb6767f8c",
+      "category": "rival_status_intersex_term"
+    },
+    {
+      "rowID": 8773,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/gather_chat/7/text/1",
+      "event": "gather_chat",
+      "tags": [
+        "rival_lover"
+      ],
+      "keySHA256": "94244f1a4db6bd2bf59bbe6c77d709a2da7aa94299ae373d4c3b62182f49c1b6",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 8777,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/gather_chat/7/text/2",
+      "event": "gather_chat",
+      "tags": [
+        "rival_lover"
+      ],
+      "keySHA256": "0554d43f5a520511e13a306820a89393806d9d7e9fdb5e5b8bd04ba0af6c71e8",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 18833,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/rumor_talk/7/text",
+      "event": "rumor_talk",
+      "tags": [
+        "rumor:sex"
+      ],
+      "keySHA256": "8477fa9aaf4db34cad76a21f985bda5ab04528769a662607712863866da96ecc",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 18837,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/rumor_talk/8/text",
+      "event": "rumor_talk",
+      "tags": [
+        "rumor:lover"
+      ],
+      "keySHA256": "9eaf589df34a8c1f7d82bff1cc3a2db54b15c33f23efdaa877cef9e7cd972df2",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 18845,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/rumor_talk/10/text",
+      "event": "rumor_talk",
+      "tags": [
+        "rumor:force"
+      ],
+      "keySHA256": "5ca96290270319c3ae58446d97a2cfc2762cb27351171792c7cc614ae2e20710",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 18849,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/rumor_talk/11/text",
+      "event": "rumor_talk",
+      "tags": [
+        "rumor:sleep"
+      ],
+      "keySHA256": "b212a67b6c4a9f4c85590cc8f5c5308617c7ce95672bf657dc30bcbfc4a33c98",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 18857,
+      "file": "data/i18n/ko/characters/reimu.json",
+      "sourceFile": "data/characters/reimu.json",
+      "sourcePointer": "/lines/rumor_talk/13/text",
+      "event": "rumor_talk",
+      "tags": [
+        "rumor:lover",
+        "self_report"
+      ],
+      "keySHA256": "8df91110cb269f40852b2f98c5acb29519c43fae81dabbae9fec495a2a056946",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 24697,
+      "file": "data/i18n/ko/characters/sakuya.json",
+      "sourceFile": "data/characters/sakuya.json",
+      "sourcePointer": "/lines/call_to_rival_refused/4/text",
+      "event": "call_to_rival_refused",
+      "tags": [
+        "late"
+      ],
+      "keySHA256": "ff7c11496630ccf48b08e9d9f383fd22740532c4e8ac2c325a494256e9a66d35",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 27061,
+      "file": "data/i18n/ko/characters/sakuya.json",
+      "sourceFile": "data/characters/sakuya.json",
+      "sourcePointer": "/lines/gather_chat/9/text/0",
+      "event": "gather_chat",
+      "tags": [
+        "rival_lover"
+      ],
+      "keySHA256": "9f0c1346854633aefac073790ea7d62aaa072ce3897d15a5ad34b7afae79dc3b",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 27065,
+      "file": "data/i18n/ko/characters/sakuya.json",
+      "sourceFile": "data/characters/sakuya.json",
+      "sourcePointer": "/lines/gather_chat/9/text/1",
+      "event": "gather_chat",
+      "tags": [
+        "rival_lover"
+      ],
+      "keySHA256": "d0a9afb666e4ebfda6ad8d85377432b16b4ff94f79c1cf067089c8568aafa702",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 28989,
+      "file": "data/i18n/ko/characters/sakuya.json",
+      "sourceFile": "data/characters/sakuya.json",
+      "sourcePointer": "/lines/act_kiss/20/text/0",
+      "event": "act_kiss",
+      "tags": [
+        "sleeping",
+        "sleep_light",
+        "rival_lover"
+      ],
+      "keySHA256": "ac76c3021f9ce06737bf57a29f5aed90724142a2a30be9d6587c137aa27f350a",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 33509,
+      "file": "data/i18n/ko/characters/sakuya.json",
+      "sourceFile": "data/characters/sakuya.json",
+      "sourcePointer": "/lines/thrust/64/text/0",
+      "event": "thrust",
+      "tags": [
+        "sleeping",
+        "sleep_light",
+        "rival_lover"
+      ],
+      "keySHA256": "cca458af8f578209864cfe05f2042edd4865697f25d9303df8d700d3f0621d19",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 44409,
+      "file": "data/i18n/ko/characters/marisa.json",
+      "sourceFile": "data/characters/marisa.json",
+      "sourcePointer": "/lines/call_to_rival_refused/4/text",
+      "event": "call_to_rival_refused",
+      "tags": [
+        "late"
+      ],
+      "keySHA256": "d4599fdfb75f1217dcb0fbe3e73757469a5cd6a6a3c328acd25d0dca279e7876",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 46297,
+      "file": "data/i18n/ko/characters/marisa.json",
+      "sourceFile": "data/characters/marisa.json",
+      "sourcePointer": "/lines/gather_chat/8/text/1",
+      "event": "gather_chat",
+      "tags": [
+        "rival_lover"
+      ],
+      "keySHA256": "e547fefae3ce90908add7a83f5eebf62ffd025b727920a0d19e1ec5ed5efdf04",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 64149,
+      "file": "data/i18n/ko/characters/sanae.json",
+      "sourceFile": "data/characters/sanae.json",
+      "sourcePointer": "/lines/call_to_rival_refused/4/text",
+      "event": "call_to_rival_refused",
+      "tags": [
+        "late"
+      ],
+      "keySHA256": "504d11b793d7fb634036e555b378f31ec278d8cd3bfa180d785347868b294cea",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 66509,
+      "file": "data/i18n/ko/characters/sanae.json",
+      "sourceFile": "data/characters/sanae.json",
+      "sourcePointer": "/lines/gather_chat/8/text/0",
+      "event": "gather_chat",
+      "tags": [
+        "rival_lover"
+      ],
+      "keySHA256": "32db62d86118ca3ed331cbe06161d851217619986ec4bdae2a5a16fb7d6246a9",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 66521,
+      "file": "data/i18n/ko/characters/sanae.json",
+      "sourceFile": "data/characters/sanae.json",
+      "sourcePointer": "/lines/gather_chat/8/text/3",
+      "event": "gather_chat",
+      "tags": [
+        "rival_lover"
+      ],
+      "keySHA256": "0ea696488e572e720dc0c716439fcc9fefce7bfac7adde80085bfb56a493ea69",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 66525,
+      "file": "data/i18n/ko/characters/sanae.json",
+      "sourceFile": "data/characters/sanae.json",
+      "sourcePointer": "/lines/gather_chat/9/text/0",
+      "event": "gather_chat",
+      "tags": [
+        "rival_lover"
+      ],
+      "keySHA256": "1f47942130c1d9a04fcaa6a4290a64f0a45ef672a1f0ab33fd696a37d972d595",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 66537,
+      "file": "data/i18n/ko/characters/sanae.json",
+      "sourceFile": "data/characters/sanae.json",
+      "sourcePointer": "/lines/gather_chat/9/text/3",
+      "event": "gather_chat",
+      "tags": [
+        "rival_lover"
+      ],
+      "keySHA256": "0ea696488e572e720dc0c716439fcc9fefce7bfac7adde80085bfb56a493ea69",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 68429,
+      "file": "data/i18n/ko/characters/sanae.json",
+      "sourceFile": "data/characters/sanae.json",
+      "sourcePointer": "/lines/act_kiss/20/text/0",
+      "event": "act_kiss",
+      "tags": [
+        "sleeping",
+        "sleep_light",
+        "rival_lover"
+      ],
+      "keySHA256": "ac76c3021f9ce06737bf57a29f5aed90724142a2a30be9d6587c137aa27f350a",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 72973,
+      "file": "data/i18n/ko/characters/sanae.json",
+      "sourceFile": "data/characters/sanae.json",
+      "sourcePointer": "/lines/thrust/64/text/0",
+      "event": "thrust",
+      "tags": [
+        "sleeping",
+        "sleep_light",
+        "rival_lover"
+      ],
+      "keySHA256": "cca458af8f578209864cfe05f2042edd4865697f25d9303df8d700d3f0621d19",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 81940,
+      "file": "data/i18n/ko/dialogue/basic.json",
+      "sourceFile": "data/dialogue/basic.json",
+      "sourcePointer": "/lines/call_to_rival_refused/2/text",
+      "event": "call_to_rival_refused",
+      "tags": [
+        "late"
+      ],
+      "keySHA256": "86ea9b94ce9954d6cc59d0727181174236f01d8e58d7fa621995935549fdfb1e",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 89762,
+      "file": "data/i18n/ko/dialogue/basic.json",
+      "sourceFile": "data/dialogue/basic.json",
+      "sourcePointer": "/lines/thrust/17/text/1",
+      "event": "thrust",
+      "tags": [
+        "with_rival",
+        "pc_lover"
+      ],
+      "keySHA256": "9eef45fe770ef4ba9b9709fbe5f4b9836a4576000c3aaa682d24b0de1718a758",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 103376,
+      "file": "data/i18n/ko.json",
+      "sourceFile": "scripts/commands_situation.gdc",
+      "sourcePointer": null,
+      "event": "script_literal",
+      "tags": [],
+      "keySHA256": "ff1d9a558f95ba069d53b3fc146de7eda5f0708f917e97ce4de168def88c8f3f",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 121879,
+      "file": "data/i18n/ko.json",
+      "sourceFile": "scripts/ui/overlays/setting_tabs.gdc",
+      "sourcePointer": null,
+      "event": "script_literal",
+      "tags": [],
+      "keySHA256": "b763afb9d4ca17fc341e809a77e597f1a5399e60c9872b0cc1f1fe09b1111ab2",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 125177,
+      "file": "data/i18n/ko/intro.json",
+      "sourceFile": "data/i18n/ko/intro.json",
+      "sourcePointer": null,
+      "event": "intro.json",
+      "tags": [],
+      "keySHA256": "13728442a8875dd607a92ae743fb1410cb00eff281e9aa307c70c6f21956aec4",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 125179,
+      "file": "data/i18n/ko/intro.json",
+      "sourceFile": "data/i18n/ko/intro.json",
+      "sourcePointer": null,
+      "event": "intro.json",
+      "tags": [],
+      "keySHA256": "f9e35cae294738b45ae8f23ccf0ec065215ee88ba4cced6e2165c4201fd1a5fe",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 125203,
+      "file": "data/i18n/ko/intro.json",
+      "sourceFile": "data/i18n/ko/intro.json",
+      "sourcePointer": null,
+      "event": "intro.json",
+      "tags": [],
+      "keySHA256": "bf34f0afce329f5fbb86c3b42de52e11cfc8f1c27fa4701140eb6fd3b9d1aefb",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 125208,
+      "file": "data/i18n/ko/intro.json",
+      "sourceFile": "data/i18n/ko/intro.json",
+      "sourcePointer": null,
+      "event": "intro.json",
+      "tags": [],
+      "keySHA256": "b137a756d1c1f135686722e2c7b66826ead4070bc2081f4bd5ef83058be0a09f",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 125217,
+      "file": "data/i18n/ko/intro.json",
+      "sourceFile": "data/i18n/ko/intro.json",
+      "sourcePointer": null,
+      "event": "intro.json",
+      "tags": [],
+      "keySHA256": "2af41ceb615de442fe13b97469287452331268e85738654f61995fdb532fa5d3",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 125218,
+      "file": "data/i18n/ko/intro.json",
+      "sourceFile": "data/i18n/ko/intro.json",
+      "sourcePointer": null,
+      "event": "intro.json",
+      "tags": [],
+      "keySHA256": "bf47b73f54c788b61f30c37f3398c1df6ca0f2014d34b997284f1127be945af7",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 124593,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "f1102cff7a9618ecf0d0d5fb39cc87a3b87c34e35fc4619a304f4014ea481821",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 124594,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "7badfbe92e0fda867ba9ef08b9214347eaaffd12631977906566b6e791b972da",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 124595,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "ac247aaaf124e4dd59a70ffa23c9f2ea394b15a5764474f94be5fbf2a343da46",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 124831,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "8e3edccb7c70d9cf3520497294d699995471083ba1cc5c3142dee42c2c76b7e9",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 125525,
+      "file": "data/i18n/ko/map_guide.json",
+      "sourceFile": "data/i18n/ko/map_guide.json",
+      "sourcePointer": null,
+      "event": "map_guide.json",
+      "tags": [],
+      "keySHA256": "676066b5d241d9aaddd2cab522a5d971659c72dd54d83fa3bdb4112d3255f12f",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 125639,
+      "file": "data/i18n/ko/rival.json",
+      "sourceFile": "data/i18n/ko/rival.json",
+      "sourcePointer": null,
+      "event": "rival.json",
+      "tags": [],
+      "keySHA256": "12035358d025cf4cd97a1f680183018f8be05920c563723d78daeff16bcc58af",
+      "category": "rival_feminine_reference"
+    },
+    {
+      "rowID": 124600,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "be03ee4df4d9ca3ae1db0770b1fd45289152657b97f7cded62229ee9acc3aa31",
+      "category": "rival_parent_reference"
+    },
+    {
+      "rowID": 124601,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "7d92949078966c755ee76616829d40dc3a3fd0e04dc0e215ffcf13338cd8be5a",
+      "category": "rival_parent_reference"
+    },
+    {
+      "rowID": 124602,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "bf43b14cca9c9aa46cd73867883e36883a415bcb62e4ef79f13bf458a4bbc15a",
+      "category": "rival_parent_reference"
+    },
+    {
+      "rowID": 124603,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "a6ff444d51318a7ce8a102b9fdd27521109fd26ed2dbba372f6150bdf69e4ecb",
+      "category": "rival_parent_reference"
+    },
+    {
+      "rowID": 124636,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "f4f7c8c93847a275cb72434b0136bc0d21ec83fad63dabbf06638cf5d8301cc3",
+      "category": "rival_parent_reference"
+    },
+    {
+      "rowID": 124638,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "069282477e9106cd6b1bf3858afd572b06c9be02eed993862017dde038b7a110",
+      "category": "rival_parent_reference"
+    },
+    {
+      "rowID": 124639,
+      "file": "data/i18n/ko/endings.json",
+      "sourceFile": "data/i18n/ko/endings.json",
+      "sourcePointer": null,
+      "event": "endings.json",
+      "tags": [],
+      "keySHA256": "0c80abca23a125e80b548a4990a8b0acc48906fe39dd05fb5e31453db53062d0",
+      "category": "rival_parent_reference"
+    },
+    {
+      "rowID": 81832,
+      "file": "data/i18n/ko/dialogue/basic.json",
+      "sourceFile": "data/dialogue/basic.json",
+      "sourcePointer": "/lines/boost_rival/0/text",
+      "event": "boost_rival",
+      "tags": [],
+      "keySHA256": "92140a26bef3ef5c4f0eb7a0b1aceb31ba34ff816f0bd8da8ca5a3b2f6517cbc",
+      "category": "rival_neutral_insult"
+    }
+  ],
+  "changedFiles": [
+    "data/i18n/ko/characters/reimu.json",
+    "data/i18n/ko/characters/sakuya.json",
+    "data/i18n/ko/characters/marisa.json",
+    "data/i18n/ko/characters/sanae.json",
+    "data/i18n/ko/dialogue/basic.json",
+    "data/i18n/ko.json",
+    "data/i18n/ko/intro.json",
+    "data/i18n/ko/endings.json",
+    "data/i18n/ko/map_guide.json",
+    "data/i18n/ko/rival.json",
+    "art/rival/rival_body_normal.png",
+    "scripts/ui/face_icon.gd",
+    "scripts/endings_pages.gd",
+    "project.godot",
+    "export_presets.cfg",
+    "art/ui/howto_screen_ko.png",
+    "art/ui/howto_screen.png"
+  ],
+  "mechanicsChanged": false,
+  "pngCopiedWithoutModification": true
+}
