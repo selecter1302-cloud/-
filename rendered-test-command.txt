@@ -1,0 +1,4 @@
+Run with DISPLAY pointing at a running X11 server; use independent XDG data/config/cache folders.
+godot --main-pack qa/apk-assets-runtime.pck --audio-driver Dummy --rendering-method gl_compatibility --max-fps 60 --script qa/face_intimacy_bootstrap.gd -- --screenshots
+Then reuse those XDG folders in a fresh process:
+godot --headless --max-fps 60 --main-pack qa/apk-assets-runtime.pck --script qa/face_intimacy_bootstrap.gd -- --verify-face-persistence

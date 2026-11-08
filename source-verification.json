@@ -1,0 +1,20 @@
+{
+  "baseline": "0.9.3",
+  "version": "0.9.4",
+  "changedSourceFiles": [
+    "export_presets.cfg",
+    "project.godot",
+    "scripts/mod_actor_actions.gd",
+    "scripts/mod_controls.gd",
+    "scripts/ui/mod_window.gd",
+    "scripts/ui/panels/stage.gd"
+  ],
+  "addedSourceFiles": [
+    "scripts/ui/mod_intimacy_panel.gd",
+    "scripts/ui/mod_intimacy_panel.gd.uid"
+  ],
+  "removedSourceFiles": [],
+  "allGameDataAndArtUnchanged": true,
+  "rivalStageOffset16pxRetained": true,
+  "actualAndroidDeviceTested": false
+}
