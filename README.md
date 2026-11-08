@@ -14,6 +14,8 @@
 파티 강화 하위 모드, 원격 장난감 하위 기능, 추가 교대 요청·체위 변형,
 조건 외형의 복합 규칙 및 대사 전수 대응 검증 등은 남아 있습니다.
 안드로이드 실기기 검증을 완료한 것으로 안내하지 않습니다.
-검수 화면 및 상세 결과는 같은 배포 브랜치의 QA 증거 ZIP을 참고하세요.
+검수 화면과 상세 결과는 이 대화의 별도 첨부로 제공합니다. 이 공개 브랜치에는 검수 스크린샷을 게시하지 않습니다.
 
 The ZIP is stored using Git LFS because it exceeds GitHub’s ordinary Git 100 MiB file limit. Download integrity must be verified against SHA256SUMS.txt.
+
+Public ZIP redownload, SHA-256, ZIP CRC and embedded APK signature checks passed. See download-verification.json.
