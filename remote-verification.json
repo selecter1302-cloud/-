@@ -1,0 +1,17 @@
+{
+  "version": "0.9.4",
+  "fullPublishedAPKRedownloaded": true,
+  "bytes": 335348952,
+  "SHA256": "807fd47007aeab653ebd94bb8d99005e36aa837bc190e704425f4f8a83db2ebd",
+  "sameAsBuild": true,
+  "ZIPCRCValid": true,
+  "signatureValid": true,
+  "internalAndroidManifestDexAndArm64ELFVerified": true,
+  "newIntimacyPanelPresent": true,
+  "downloadMethod": "Fresh clone and official Git LFS full fetch",
+  "publicRawRedirectVerified": true,
+  "publicCDNFullGETTested": false,
+  "limitation": "Cloud policy blocks media.githubusercontent.com; the full published APK was downloaded independently using the allowed official Git LFS API.",
+  "actualAndroidDeviceTested": false,
+  "commit": "2f3cf540ab129cba72c61f1823beaf1ee2b8a5f6"
+}
