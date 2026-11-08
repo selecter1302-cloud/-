@@ -1,0 +1,2 @@
+de5408e98d4ae668e3712e1f9e6b011cc467847c62f9f23d71201a4b11a889a4  Gensokyo-Mod-Android-v0.10.2-internal-r2.zip
+1f1037ea17d8d5bf34ac3864592ba1c7ca424954506e39b811103d1f6081f2c7  Gensokyo-Mod-Android-v0.10.2-internal-r2.apk
