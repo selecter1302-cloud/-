@@ -1,0 +1,19 @@
+{
+  "url": "https://github.com/selecter1302-cloud/-/raw/refs/heads/gensokyo-download-v0.13.2-android-r2/Gensokyo-Mod-Android-v0.13.2-internal-r2.zip",
+  "httpStatus": 200,
+  "downloadedBytes": 480845303,
+  "localZIP_SHA256": "38b058f1a940a0ab404a5c9975902efcd6b334583138345063943b36d7423f5b",
+  "downloadedZIP_SHA256": "38b058f1a940a0ab404a5c9975902efcd6b334583138345063943b36d7423f5b",
+  "hashMatches": true,
+  "outerZIP_CRC": "passed",
+  "embeddedAPK": "Gensokyo-Mod-Android-v0.13.2-internal-r2.apk",
+  "embeddedAPK_SHA256": "8cde6d175124147833338c08906a9ebbf57f884775c02fbfe9891fd986a7a8be",
+  "innerAPK_ZIP_CRC": "passed",
+  "APKSignature": "passed",
+  "sameCertificateAsPreviousApp": true,
+  "package": "org.selecter1302.gensokyomod",
+  "versionCode": 44,
+  "alignment16KiB": "passed",
+  "imageArchiveUncompressedInAPK": true,
+  "actualAndroidDeviceTested": false
+}
